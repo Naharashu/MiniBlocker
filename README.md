@@ -1,7 +1,7 @@
 # MiniBlocker
 Chrome browser extension for block ad sites and .ru/.cn domains
 
-## List of blocking sites (1.3.0):
+## List of blocking sites (1.3.2):
 
 - Google analytics
 - doubleclick.net
