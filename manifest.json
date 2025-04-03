@@ -1,0 +1,23 @@
+{
+    "name": "Mini AdBlocker",
+    "version": "1.3.2",
+    "description": "Simple and fast AdBlocker + block .ru domains",
+    "permissions": ["notifications", "webRequest", "webRequestBlocking", "declarativeNetRequest", "activeTab", "<all_urls>"],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "icons/logo1.png",
+            "48": "icons/logo2.png",
+            "128": "icons/logo3.png"
+        }
+    },
+    "icons": {
+        "16": "icons/logo1.png",
+        "48": "icons/logo2.png",
+        "128": "icons/logo3.png"
+    },
+    "manifest_version": 2
+}
