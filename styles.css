@@ -1,0 +1,28 @@
+body {
+    background-color: #06368d;
+    font-family: monospace;
+    margin: 0;
+    padding: 20px;
+    color: #fff;
+    font-size: 16px;
+}
+
+select {
+    background-color: #4979d3;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 5px;
+    font-size: 16px;
+}
+button {
+    background-color: #4979d3;
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 5px 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3453a7;
+}
